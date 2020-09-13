@@ -30,7 +30,7 @@ I always learn – this year I completed HTML & CSS & JS basic course and Progra
 ## Code examples
 
 -  [Gtihub @AlexanderChapkovski](https://github.com/AlexanderChapkovski)
--  [One of regression tests of my current project](https://github.com/AlexanderChapkovski/LocalCoding.git
+-  [One of regression tests of my current project](https://github.com/AlexanderChapkovski/LocalCoding.git)
 
 ## Experience
 
