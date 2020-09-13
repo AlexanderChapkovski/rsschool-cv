@@ -2,10 +2,10 @@
 
 # Alexander Chapkouski
 
-Located in **Philadelphia, USA**
-**+1 484 855-81-59**
-alexander.chapkovs@icloud.com
-[LinkedIn](https://www.linkedin.com/in/alexchapko/)
+Located in **Philadelphia, USA**<br />
+**+1 484 855-81-59**<br />
+alexander.chapkovs@icloud.com<br />
+[LinkedIn](https://www.linkedin.com/in/alexchapko/)<br />
 
 
 ## Summary
