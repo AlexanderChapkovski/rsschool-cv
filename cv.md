@@ -20,7 +20,7 @@ I always learn – this year I completed HTML & CSS & JS basic course and Progra
 
 
 - Languages: JavaScript, Java, HTML, CSS  
-- Automation Testing: Selenium WebDriver, Maven, JUnit, TestNG | WebdriverIO, Mocha, chai, Cypress  
+- Automation Testing: Selenium WebDriver, Maven, JUnit, TestNG, Cypress, Mocha, chai   
 - Tools: Git, IntelliJ IDEA, Eclipse, VCS, WebStorm, npm, Jenkins, Postman, BrowserStack  
 - Browsers: Chrome, Mozilla Firefox, Safari, Edge  
 - Data Bases: MySQL  
@@ -29,8 +29,8 @@ I always learn – this year I completed HTML & CSS & JS basic course and Progra
 
 ## Code examples
 
--  [one of regression tests](https://github.com/AlexanderChapkovski/Azure_Test/blob/master/20602/specs/regression/settingsProfile.spec.js)
--   [Gtihub @AlexanderChapkovski](https://github.com/AlexanderChapkovski)
+-  [Gtihub @AlexanderChapkovski](https://github.com/AlexanderChapkovski)
+-  [One of regression tests of my current project](https://github.com/AlexanderChapkovski/LocalCoding.git
 
 ## Experience
 
