@@ -12,7 +12,7 @@ alexander.chapkovs@icloud.com<br />
 
 I'm proactive and very detailed Automation QA Engineer. I've been in QA for the past four years. I focus on Web-testing doing API and UI testing. I really enjoy working with Web and everything related to it. I decided to learn more about Web Development. I'm simply looking for new challenges and I'd love to become a full-stack Web Developer. 
 
-I always learn – this year I completed HTML & CSS & JS basic course and Programming basics course Udemy, was on internship as a Junior Front-End Developer in [PASV](https://app.pasv.us/). This year I completed  [Cypress v5 course](https://www.udemy.com/course/cypress-io-master-class/learn/lecture/20591654#questions), [Advanced Selenium WebDriver with Java](https://www.udemy.com/course/advanced-selenium-webdriver/learn/lecture/12167038?start=0#overview), [Rest Assured](https://www.udemy.com/course/rest-assured-for-beginners/learn/lecture/18347678?start=0#overview)    course on Udemy for being more productive.
+I always learn – this year I completed HTML & CSS & JS basic course and Programming basics course Udemy, was on internship as a Junior Front-End Developer in [PASV](https://app.pasv.us/). This year I completed  [Cypress v5 course](https://www.udemy.com/course/cypress-io-master-class/learn/lecture/20591654), [Advanced Selenium WebDriver with Java](https://www.udemy.com/course/advanced-selenium-webdriver/learn/lecture/12167038), [Rest Assured](https://www.udemy.com/course/rest-assured-for-beginners/learn/lecture/18347678)    course on Udemy for being more productive.
 
 
 
