@@ -20,11 +20,11 @@ I always learn – this year I completed HTML & CSS & JS basic course and Progra
 
 
 - Languages: JavaScript, Java, HTML, CSS  
-- Automation Testing: Selenium WebDriver, Maven, JUnit, TestNG, Cypress, Mocha, chai   
+- Automation Testing: Selenium WebDriver, Maven, JUnit, TestNG, Cypress, Mocha, chai, WebDriverIO   
 - Tools: Git, IntelliJ IDEA, Eclipse, VCS, WebStorm, npm, Jenkins, Postman, BrowserStack  
 - Browsers: Chrome, Mozilla Firefox, Safari, Edge  
 - Data Bases: MySQL  
-- Platforms: Windows 7/8/10, macOS  
+- Platforms: Linux, macOS, Windows, iOS, Android  
 - Issue tracking: Jira, Bugzilla
 
 ## Code examples
